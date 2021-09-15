@@ -1,0 +1,1 @@
+La máquina virtual con los cambios aplicados pesa 5gb y por tanto no puede subirse a GitHub. Puede descargarse desde aquí: https://drive.google.com/file/d/1yUOKmHZQli5TG9r_-BKyOXN1VQrk2x4I/view?usp=sharing
